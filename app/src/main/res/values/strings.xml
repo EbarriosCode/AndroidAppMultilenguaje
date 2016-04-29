@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppMultilenguaje</string>
+
+    <string name="saludo">Bienvenido</string>
+    <string name="ins_boton">Entrar</string>
+
+
+</resources>
